@@ -1,11 +1,11 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Jayden Swartzel
+- Email: swartzel.10@wright.edu
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [QCorvus97's GitHub Profile](https://github.com/QCorvus97)
 
 ## Part 2 - Research
 
@@ -29,11 +29,11 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:
+1. Full / absolute path to your user's home directory: C:\Users\quake>
 2. Create a directory named `DirA`:
 3. Create a directory named `Dir B`:
 4. Go into `DirA`:
