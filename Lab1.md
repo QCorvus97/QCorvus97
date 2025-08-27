@@ -11,16 +11,16 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| help    | man         |Provides a description of the help system and how to get more information about other commands      |
+| Get-Location | pwd    |Returns the current directory        |
+| Get-ChildItem | ls    |Returns the item(s) contained at the current location        |
+| mkdir   | mkdir       |Creates a directory (folder)        |
+| Set-Location | cd     |Sets the working location to whatever is specified        |
+| New-Item | touch      |Creates a new item        |
+| Move-Item | mv        |Moves an item to a specified location        |
+| Copy-Item | cp        |Copies an item to a specified location        |
+| Remove-Item | rm      |Deletes a specified item        |
+| notepad.exe | vim     |Opens notepad        |
 
 ## Part 3 - Command Line Navigation
 
@@ -52,7 +52,7 @@ Put your words here
 
 ## Citations
 
-To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+[Provided information about what PowerShell commands do.](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-7.5)
 
 
 
