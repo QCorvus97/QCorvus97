@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Name: Jayden Swartzel
-Major: Computer Engineering
+Name: Jayden Swartzel  
+Major: Computer Engineering  
 <!--
 **QCorvus97/QCorvus97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
