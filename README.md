@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💛 Welcome to QCorvus 💜
 
 Name: Jayden Swartzel  
 Major: Computer Engineering  
