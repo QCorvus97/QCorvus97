@@ -2,6 +2,9 @@
 
 Name: Jayden Swartzel  
 Major: Computer Engineering  
+Projects:  
+1. Co-developing an open world racing game with a friend.  
+2. Co-developing (and composing music for) a spin on a trditional brickbreaker game with a friend.
 <!--
 **QCorvus97/QCorvus97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
